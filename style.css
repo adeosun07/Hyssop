@@ -9,8 +9,9 @@ nav{
     padding:0.5rem 0;
     background-color: rgb(118, 167, 118);
     display:flex;
-    gap:2rem;
-    justify-content: center;
+    gap:1rem;
+    justify-content: flex-start;
+    align-items: flex-end;
 }
 #header_image{
     width:5rem;
